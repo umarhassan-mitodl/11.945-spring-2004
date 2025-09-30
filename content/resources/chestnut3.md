@@ -4,6 +4,8 @@ description: Chestnut Phase 2. Image courtesy of the studio, and used with permi
 file: /courses/11-945-springfield-studio-spring-2004/b2fe170ab6666fcc73be22f5dc321e61_chestnut3.jpg
 file_size: 66541
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Chestnut Phase 2.
   credit: Image courtesy of the studio, and used with permission.

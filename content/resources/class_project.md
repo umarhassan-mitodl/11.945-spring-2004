@@ -14,6 +14,8 @@ description: 'The class project will consist of a three-stage process: inventory
 file: /courses/11-945-springfield-studio-spring-2004/10258308cdf26e9b55457daf463f2000_class_project.pdf
 file_size: 24134
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

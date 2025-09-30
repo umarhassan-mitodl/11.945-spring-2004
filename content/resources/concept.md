@@ -4,6 +4,8 @@ description: The Concept Plan. Image courtesy of the studio, and used with permi
 file: /courses/11-945-springfield-studio-spring-2004/0ccf1b6bf2c8ecb6e56ae6348b06332e_concept.jpg
 file_size: 78485
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The Concept Plan.
   credit: Image courtesy of the studio, and used with permission.

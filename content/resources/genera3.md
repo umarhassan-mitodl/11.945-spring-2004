@@ -4,6 +4,8 @@ description: Gerena Phase 3. Image courtesy of the studio, and used with permiss
 file: /courses/11-945-springfield-studio-spring-2004/c8da34980178a468bce708712c194988_genera3.jpg
 file_size: 27065
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Gerena Phase 3.
   credit: Image courtesy of the studio, and used with permission.

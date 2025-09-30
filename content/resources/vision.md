@@ -4,6 +4,8 @@ description: Campus Vision. Image courtesy of the studio, and used with permissi
 file: /courses/11-945-springfield-studio-spring-2004/07b9a67e64109da1f395dc111f769d63_vision.jpg
 file_size: 66370
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Campus Vision.
   credit: Image courtesy of the studio, and used with permission.

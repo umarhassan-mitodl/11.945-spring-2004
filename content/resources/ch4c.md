@@ -5,6 +5,8 @@ description: Chapter 4c of the final project report. Courtesy of Diana Bernal. U
 file: /courses/11-945-springfield-studio-spring-2004/c900025e6fb1bc44d55fe63c67a5d4fb_ch4C.pdf
 file_size: 1342629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

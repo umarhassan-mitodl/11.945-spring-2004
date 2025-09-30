@@ -5,6 +5,8 @@ description: Chapter 2 of the final project report. Courtesy of Diana Bernal. Us
 file: /courses/11-945-springfield-studio-spring-2004/b3dabc382ebc252bc01db41f9925d716_ch2z.pdf
 file_size: 492572
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

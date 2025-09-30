@@ -39,6 +39,7 @@
     "website": "11-945-springfield-studio-spring-2004"
   },
   "course_title": "Springfield Studio",
+  "hide_download": true,
   "course_description": "The Springfield Studio is a practicum design course that focuses on the physical, programmatic, and social renewal of an urban community in Springfield, Massachusetts by combining classroom work with an applied class project.\u00a0The course content covers the areas of physical design/urban design and the related analysis and planning tools used to understand and assess urban conditions from a design and development perspective.\u00a0Urban design issues are investigated in the context of social and economic challenges within the community.\u00a0Thus, the course has dual goals:\n\n1.  analyze physical conditions in the community, assess community need, propose physical design interventions; and\n2.  assess community capacity and programmatic needs.\n\nThe ultimate goal is to explore the integration of social, programmatic and physical development interventions in ways that reinforce community revitalization efforts, and to apply this knowledge through the development of a formal neighborhood revitalization plan that addresses community needs.\n",
   "department_numbers": [
     "11"
@@ -49,6 +50,7 @@
     "content": "72ecbc53-ae0b-5213-e954-1ed159064654",
     "website": "11-945-springfield-studio-spring-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Image Gallery",
     "Projects with Examples",

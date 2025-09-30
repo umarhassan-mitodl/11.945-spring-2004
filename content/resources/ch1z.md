@@ -5,6 +5,8 @@ description: Chapter 1 of the final project report. Courtesy of Diana Bernal. Us
 file: /courses/11-945-springfield-studio-spring-2004/1929236ed0aef5bcbfedc2b6f8602dc7_ch1z.pdf
 file_size: 180536
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

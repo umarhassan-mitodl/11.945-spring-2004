@@ -4,6 +4,8 @@ description: 'Objectives and guidelines for Assignment #1.'
 file: /courses/11-945-springfield-studio-spring-2004/fda4efeef1ef78d9cdacc1a21b88c4d7_assn1.pdf
 file_size: 36219
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

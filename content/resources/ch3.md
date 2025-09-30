@@ -5,6 +5,8 @@ description: Chapter 3 of the final project report. Courtesy of Diana Bernal. Us
 file: /courses/11-945-springfield-studio-spring-2004/de2246f5c425cda0491d01dd9bd2d723_ch3.pdf
 file_size: 645149
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
